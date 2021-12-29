@@ -1,0 +1,1 @@
+This is the write up for a research project undertaken at Imperial College London's Centre for Neurotechnology in 2020, which aimed to produce an algorithm that can robustly make decisions on the existence of motor units from sEMG signals, even in contexts with high noise.
